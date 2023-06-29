@@ -1,4 +1,4 @@
-# PlantSwap Applicatie - Plant Identifier Functionaliteit
+# Plant Swap 🌱
 Dit project is ontwikkeld als onderdeel van de Buurtcampus Oost, een dynamische en laagdrempelige plek waar buurtbewoners samenkomen om kennis op te doen, te ontwikkelen en te delen. De missie van Buurtcampus Oost is om de buurt duurzamer, gezonder en inclusiever te maken. Doormiddel van de PlantSwap kunnen de buurtbewooners digitaal stekjes doneren en ruilen. Hierdoor kan Buurtcampus Oost makkelijk een overzict houden over de planten en  goed bij houden wat er in en uit het stekjes kast gaat.
 
 ## Beschrijving
@@ -13,5 +13,5 @@ Dit project heeft als doel om een Plant Identifier functionaliteit te ontwerpen 
 - Als buurtbewoner van Amsterdam Oost wil ik aan de hand van een foto van een plant meer informatie kunnen vinden, zodat ik kan bepalen of het een interessante plant is om een stekje van te kweken.
 
   
-Opdrachtgever: Buurtcampus Oost
-Product Owner: Mariska Gunsing
+**Opdrachtgever:** Buurtcampus Oost
+**Product Owner:** Mariska Gunsing
