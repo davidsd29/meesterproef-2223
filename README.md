@@ -14,4 +14,5 @@ Dit project heeft als doel om een Plant Identifier functionaliteit te ontwerpen 
 
   
 **Opdrachtgever:** Buurtcampus Oost
+<br>
 **Product Owner:** Mariska Gunsing
