@@ -16,3 +16,5 @@ Dit project heeft als doel om een Plant Identifier functionaliteit te ontwerpen 
 **Opdrachtgever:** Buurtcampus Oost
 <br>
 **Product Owner:** Mariska Gunsing
+<br>
+Voor meer informatie kunt u mijn [wiki](https://github.com/davidsd29/meesterproef-2223/wiki) bekijken.
